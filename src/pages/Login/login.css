@@ -1,0 +1,91 @@
+.login {
+  margin-top: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.leftpart {
+  flex: 4;
+  //background-color: #d4f1f4;
+}
+
+.rightpart {
+  flex: 4;
+
+  //margin-bottom: 20px;
+}
+.form {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+.inputlogin {
+  margin-bottom: 15px;
+  //margin: 0;
+  width: 310px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid gray;
+  font-size: 18px;
+  padding-left: 20px;
+}
+.Loginpic {
+  width: 700px;
+  height: 600px;
+  margin-left: 60px;
+}
+.inputlogin:focus {
+  outline: none;
+}
+.btn {
+  height: 50px;
+  width: 170px;
+  border-radius: 10px;
+  border: none;
+  background-color: #1775ee;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.firsttext1 {
+  font-size: 25px;
+  text-align: center;
+  //margin-left: 135px;
+  //margin-left: 235px;
+}
+.sectext1 {
+  text-align: center;
+  //margin-left: 235px;
+  //margin-left: 135px;
+  font-size: 27px;
+  font-weight: bold;
+}
+.line {
+  margin-left: 235px;
+  margin-top: 20px;
+  width: 310px;
+}
+.Signup {
+  display: flex;
+  align-items: center;
+  //justify-content: space-between;
+}
+.regtext {
+  margin-left: 235px;
+  //margin-left: 135px;
+  font-size: 17px;
+}
+.btn2 {
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  border-color: #1775ee;
+  background-color: white;
+  color: #1775ee;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 70px;
+}

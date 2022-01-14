@@ -1,0 +1,18 @@
+.home {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 10px;
+}
+
+.d-block {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 1300px;
+  border: 3px solid #a7b3cb;
+  object-fit: cover;
+}
+.slider {
+  overflow: hidden;
+}
